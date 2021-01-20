@@ -1,4 +1,4 @@
-Link to APP:
+Link to APP: https://stefanljiljak.github.io/deposit-box/
 
 Thr task is to create web simulation of safe deposit box usually found in hotel rooms.
 Backlit screen has two textual segments:
