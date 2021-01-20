@@ -1,0 +1,17 @@
+@import '../../variables.scss';
+
+.depositBox__screen {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 70px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	padding: 5px;
+	&.inactive {
+		background-color: $backlight-off;
+	}
+	&.active {
+		background-color: $backlight-on;
+	}
+}
